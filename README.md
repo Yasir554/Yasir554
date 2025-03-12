@@ -15,11 +15,11 @@ You can reach me => [![Instagram](https://img.shields.io/badge/Instagram-%23E440
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 # 📊 GitHub Stats:
-![Yasir554's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasir554&theme=radical=false&include_all_commits=false&count_private=true)
+![Yasir554's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasir554&theme=radical&include_all_commits=false&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir554&theme=radical=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir554&theme=radical&include_all_commits=false&count_private=true&layout=compact)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yasir554&theme=radical=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yasir554&theme=radical)
 
 
 ### ✍️ Random Dev Quote
