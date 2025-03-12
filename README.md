@@ -30,7 +30,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
@@ -44,7 +43,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yasir554&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yasir554&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir554&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir554&theme=dark&hide_border=false&count_private=true&langs_count=100)  
 
 ---
 
