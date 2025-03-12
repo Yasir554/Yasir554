@@ -14,6 +14,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasir554&theme=radical)
 
+## 📊 Language Stats  
+![Metrics](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/github-metrics.svg)
 
 
 ### ✍️ Random Dev Quote
