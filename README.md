@@ -10,9 +10,7 @@ You can reach me (Click) => [![email](https://img.shields.io/badge/Email-D14836?
 
 # 📊 GitHub Stats:
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yasir554&theme=radical)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yasir554&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yasir554&theme=radical) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yasir554&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com/?user=Yasir554&theme=radical&hide_border=false)
 
