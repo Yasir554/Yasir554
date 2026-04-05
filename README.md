@@ -18,7 +18,7 @@ You can reach me (Click) => [![email](https://img.shields.io/badge/Email-D14836?
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Yasir554&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Yasir554&theme=radical&no-frame=true&margin-w=4)
 
 # ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
