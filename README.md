@@ -23,8 +23,7 @@ You can reach me (Click) => [![email](https://img.shields.io/badge/Email-D14836?
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yasir554&theme=radical)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yasir554&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=Yasir554&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=Yasir554&icon=0&color=0)](https://visitcount.itsvg.in)
 
