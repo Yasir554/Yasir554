@@ -20,6 +20,10 @@ You can reach me (Click) => [![email](https://img.shields.io/badge/Email-D14836?
 
 ![Trophies](https://github-trophies.vercel.app/?username=Yasir554&theme=radical&no-frame=true)
 
+## 📈 GitHub Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yasir554&theme=redical)
+
 # ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
